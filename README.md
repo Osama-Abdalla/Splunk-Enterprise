@@ -15,7 +15,8 @@ Through these labs, I practiced ingesting logs, writing SPL queries, building da
 | Project | Description | Repository |
 |---------|-------------|------------|
 | **Splunk BOTSv2** | Analysis and investigation of security events in Splunk’s Blue Team CTF v2 (TryHackMe Splunk2). | [Link to Splunk2-BOTSv2 Repo](#) |
-| **Splunk BOTSv3** | Advanced incident investigation and threat hunting in Splunk’s Blue Team CTF v3 (TryHackMe Splunk3). | [https://github.com/Osama-Abdalla/Splunk-Enterprise/blob/main/splunk3_BOTSv3/README.md](#) |
+| **Splunk BOTSv3** | Advanced incident investigation and threat hunting in Splunk’s Blue Team CTF v3 (TryHackMe Splunk3). | [Link to Splunk2-BOTSv3](https://github.com/Osama-Abdalla/Splunk-Enterprise/tree/main/splunk3_BOTSv3)
+ |
 
 ---
 
