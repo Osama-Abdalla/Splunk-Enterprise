@@ -18,7 +18,7 @@ Scenario: This investigation focuses on Amber Turing, an employee at the fiction
 <img width="1529" height="855" alt="image" src="https://github.com/user-attachments/assets/8f5de99c-a119-4bab-b7ff-59612cece57f" />
 
 
-## 2.How to use Splunk to Detect Web Application Attacks
+## 2.Web Application Attacks
 Scenario: The Frothly web application infrastructure is under active attack. An external threat actor is attempting to identify and exploit vulnerabilities in the company's public-facing websites. This includes attempts at SQL injection, cross-site scripting (XSS), and path traversal. The Security Operations Center (SOC) has received alerts regarding anomalous HTTP traffic. The goal is to use Splunk to analyze web server logs (stream:http), identify the attack techniques, determine if they were successful, and attribute the activity to a source IP address.
 
 ### Key Investigation Points:
